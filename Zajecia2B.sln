@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RokPrzestepny", "RokPrzestepny\RokPrzestepny.csproj", "{6368CE35-4621-4C5F-908B-59E3128FB5AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trojkat", "Trojkat\Trojkat.csproj", "{6822F9FE-7DD2-48F5-82EB-E5FA58D65B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6368CE35-4621-4C5F-908B-59E3128FB5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6368CE35-4621-4C5F-908B-59E3128FB5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6368CE35-4621-4C5F-908B-59E3128FB5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6368CE35-4621-4C5F-908B-59E3128FB5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6822F9FE-7DD2-48F5-82EB-E5FA58D65B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6822F9FE-7DD2-48F5-82EB-E5FA58D65B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6822F9FE-7DD2-48F5-82EB-E5FA58D65B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6822F9FE-7DD2-48F5-82EB-E5FA58D65B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0314A9BD-E8B4-4CD3-A25D-78C33D75E60D}
+	EndGlobalSection
+EndGlobal
